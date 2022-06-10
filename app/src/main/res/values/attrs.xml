@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleStatisticalView">
+        <!--圆圈背景颜色-->
+        <attr name="circleBackgroundColor" format="color|reference" />
+        <!--圆点边距-->
+        <attr name="dotMargin" format="dimension|reference" />
+        <!--圆点半径-->
+        <attr name="dotRadius" format="dimension|reference" />
+        <!--标记线处X差值-->
+        <attr name="lineGapX" format="dimension|reference" />
+        <!--标记线处Y差值-->
+        <attr name="lineGapY" format="dimension|reference" />
+        <!--标记线文字和线的间距-->
+        <attr name="lineNearTextMargin" format="dimension|reference" />
+        <!--标记线粗细-->
+        <attr name="lineStrokeWidth" format="dimension|reference" />
+        <!--标记文字大小-->
+        <attr name="markTextSize" format="dimension|reference" />
+        <!--标记文字颜色-->
+        <attr name="markTextColor" format="color|reference" />
+        <!--是否使用动画-->
+        <attr name="isAnimation" format="boolean" />
+        <!--动画持续时间-->
+        <attr name="animationDuration" format="integer|reference" />
+    </declare-styleable>
+</resources>
