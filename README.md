@@ -2,12 +2,14 @@
 圆圈统计图  
 1.类支付宝统计   
 2.动画显示    
-# [Gitee - CircleStatisticsView](https://gitee.com/relin/CircleStatisticsView)
-# [Github - CircleStatisticsView](https://github.com/RelinRan/CircleStatisticsView)
 # 预览
 ![效果](./ic_preview.png)
-# AAR
-[calendar_view.aar](https://github.com/RelinRan/CalendarView/blob/master/circle_statistics_view.aar)
+# 资源
+|名字|资源|
+|-|-|
+|AAR|[calendar_view.aar](https://github.com/RelinRan/CircleStatisticsView/blob/main/circle_statistics_view.aar)|
+|Gitee|[CircleStatisticsView](https://gitee.com/relin/CircleStatisticsView)|
+|GitHub | [CircleStatisticsView](https://github.com/RelinRan/CircleStatisticsView)|
 # Maven
 1.build.grade | setting.grade
 ```
